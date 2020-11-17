@@ -1,6 +1,6 @@
 import { LoggerService } from '@nestjs/common';
 import { APIVersions } from 'aws-sdk/lib/config';
-import { ConfigurationOptions } from 'aws-sdk/lib/config-base';
+import { ConfigurationOptions } from 'aws-sdk/lib/config';
 import { ConfigurationServicePlaceholders } from 'aws-sdk/lib/config_service_placeholders';
 import AWS from 'aws-sdk';
 
